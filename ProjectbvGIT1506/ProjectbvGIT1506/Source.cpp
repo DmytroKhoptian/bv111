@@ -7,5 +7,5 @@ void main()
 {
 	setlocale(LC_ALL, "");
 
-	cout << "\n";
+ 
 }
